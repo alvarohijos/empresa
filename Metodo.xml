@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>  Metodo Para Procedimiento  a la Base de Datos </Title>
+			<Shortcut> Dmetodos</Shortcut>
+			<Description> Agrega la estructura Basica de un metodo en la capa de datos</Description>
+				
+		</Header>
+		<Snippet>
+			<Code Language="">
+				<![CDATA[ 
+				public DataTable Nombre_Metodo()
+				{
+					DataTable dt = new DataTable();
+					db.AbirConexion();
+
+					OracleCommand cmd = new OracleCommand("Nombre_Paquete.Nombre_Procedimiento", db.Conexion);
+					cmd.CommandType = CommandType.StoredProcedure;
+
+					OracleParameter CursorParam = new OracleParameter("P_Cursor", OracleDbType.RefCursor);
+					CursorParam.Direction = ParameterDirection.Output;
+					cmd.Parameters.Add(CursorParam);
+
+					OracleDataAdapter da = new OracleDataAdapter(cmd);
+					da.Fill(dt);
+
+					return dt;
+				}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

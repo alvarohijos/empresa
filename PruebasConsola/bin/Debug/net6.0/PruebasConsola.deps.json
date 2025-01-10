@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebasConsola/1.0.0": {
+        "dependencies": {
+          "LOGICA": "1.0.0"
+        },
+        "runtime": {
+          "PruebasConsola.dll": {}
+        }
+      },
+      "DATOS/1.0.0": {
+        "runtime": {
+          "DATOS.dll": {}
+        }
+      },
+      "LOGICA/1.0.0": {
+        "dependencies": {
+          "DATOS": "1.0.0"
+        },
+        "runtime": {
+          "LOGICA.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/4.122.23.1": {
+        "runtime": {
+          "Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "4.122.23.1",
+            "fileVersion": "4.122.23.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebasConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DATOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LOGICA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oracle.ManagedDataAccess/4.122.23.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

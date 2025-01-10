@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|c:\\i-2025\\proyectoempresa\\empresa\\presentacion\\forms\\departments\\crear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|solutionrelative:presentacion\\forms\\departments\\crear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\presentacion\\forms\\departments\\departments.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|solutionrelative:presentacion\\forms\\departments\\departments.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\presentacion\\forms\\employees\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|solutionrelative:presentacion\\forms\\employees\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\presentacion\\forms\\employees\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|solutionrelative:presentacion\\forms\\employees\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\presentacion\\forms\\departments\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B431E2-9EBE-427F-9866-8A3238BDCD8C}|PRESENTACION\\PRESENTACION.csproj|solutionrelative:presentacion\\forms\\departments\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "departments.Master",
+              "DocumentMoniker": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\departments.Master",
+              "RelativeDocumentMoniker": "PRESENTACION\\forms\\departments\\departments.Master",
+              "ToolTip": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\departments.Master",
+              "RelativeToolTip": "PRESENTACION\\forms\\departments\\departments.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T18:51:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crear.aspx.cs",
+              "DocumentMoniker": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\crear.aspx.cs",
+              "RelativeDocumentMoniker": "PRESENTACION\\forms\\departments\\crear.aspx.cs",
+              "ToolTip": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\crear.aspx.cs",
+              "RelativeToolTip": "PRESENTACION\\forms\\departments\\crear.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:44:25.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\default.aspx.cs",
+              "RelativeDocumentMoniker": "PRESENTACION\\forms\\departments\\default.aspx.cs",
+              "ToolTip": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\departments\\default.aspx.cs",
+              "RelativeToolTip": "PRESENTACION\\forms\\departments\\default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:44:02.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\employees\\default.aspx.cs",
+              "RelativeDocumentMoniker": "PRESENTACION\\forms\\employees\\default.aspx.cs",
+              "ToolTip": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\employees\\default.aspx.cs",
+              "RelativeToolTip": "PRESENTACION\\forms\\employees\\default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:12:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\employees\\default.aspx",
+              "RelativeDocumentMoniker": "PRESENTACION\\forms\\employees\\default.aspx",
+              "ToolTip": "C:\\I-2025\\PROYECTOEMPRESA\\EMPRESA\\PRESENTACION\\forms\\employees\\default.aspx",
+              "RelativeToolTip": "PRESENTACION\\forms\\employees\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T14:12:54.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

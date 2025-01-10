@@ -1,0 +1,194 @@
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll.config
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.pdb
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe.config
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.rsp
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe.config
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.rsp
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.AppContext.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Console.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Globalization.Calendars.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Http.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Sockets.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe.config
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.rsp
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\DATOS.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\Oracle.DataAccess.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.pdb
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\bin\DATOS.pdb
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.dll
+D:\AGOSTO 5 YO  500 PM REGION Y LOCATION\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.rsp
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.rsp
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Console.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.rsp
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\DATOS.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\Oracle.DataAccess.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.pdb
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\DATOS.pdb
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.pdb
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll.config
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\PRESENTACION.pdb
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.exe.config
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csc.rsp
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.exe.config
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\csi.rsp
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.AppContext.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Collections.Immutable.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Console.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Globalization.Calendars.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Http.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Net.Sockets.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Reflection.Metadata.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.ValueTuple.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.exe.config
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\vbc.rsp
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\roslyn\VBCSCompiler.exe.config
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\DATOS.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\Oracle.DataAccess.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.pdb
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\bin\DATOS.pdb
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.dll
+D:\11 SEPTIEMBRE\JULIO\EMPRESA\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\LOGICA.dll.config
+C:\Users\ASUS\OneDrive\Escritorio\JULIO\EMPRESA\PRESENTACION\bin\DATOS.dll.config
